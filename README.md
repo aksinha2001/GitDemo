@@ -1,2 +1,2 @@
 # GitDemo
-Hello, I am learning Git
+Hello, I am learning Git.
